@@ -1,2 +1,2 @@
-# edu_skill
-Edu Skill Website
+# Retail Career
+Retail Career Website
